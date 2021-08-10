@@ -1,5 +1,4 @@
 # Hi there 👋 , I'm Fachrul!
-Currently I'm focus on Web development.
 
 <p>
 <img src="https://gpvc.arturio.dev/fachrulmustofa20" /> 
