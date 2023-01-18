@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Fachrul!
 ### 🌱 I’m currently learning Go Languange
-#### Have interest in Technology, especially Backend Engineer. Experienced as a Backend Engineer for more than 2 year in a fintech, e-commerce.
+#### Have interest in Technology, especially Software Engineer and Backend Engineer. Experienced as a Backend Engineer for more than 2 year in a fintech and e-commerce.
 
 <p>
 <img src="https://gpvc.arturio.dev/fachrulmustofa20" /> 
