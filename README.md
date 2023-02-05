@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Fachrul!
 
-### Have interest in Technology, especially Software Engineer and Backend Engineer. Experienced as a Backend Engineer for more than 2 year in a fintech and e-commerce.
+### Have interest in Technology, especially Software Engineer and Backend Engineer. Experienced as a Backend Engineer for more than 2 year in a fintech and retail.
 #### Tech Stack: Go, JavaScript, PHP, Grpc, Postgres, MySQL, Kafka, Redis.
 
 <p>
